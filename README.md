@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Talent Mudemba
+# <img src="https://api.iconify.design/lucide/hand.svg?color=%236b7280" width="28" height="28" alt=""> Talent Mudemba
 
 ### Software Engineer & Technical Founder
 
@@ -20,7 +20,7 @@ I build AI systems, cybersecurity products, and cross-platform software, with a 
 
 ---
 
-## 🧠 What I Build
+## <img src="https://api.iconify.design/lucide/brain.svg?color=%236b7280" width="22" height="22" alt=""> What I Build
 
 - African-language ML — Shona TTS, ASR & translation
 - AI agents, RAG & vector databases
@@ -30,7 +30,7 @@ I build AI systems, cybersecurity products, and cross-platform software, with a 
 
 ---
 
-## 🚀 Current Work
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%236b7280" width="22" height="22" alt=""> Current Work
 
 **XDefender** — AI-driven cybersecurity & digital-fraud protection
 
@@ -40,21 +40,21 @@ I build AI systems, cybersecurity products, and cross-platform software, with a 
 
 ---
 
-## 🛠️ Core Stack
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%236b7280" width="22" height="22" alt=""> Core Stack
 
 TypeScript · Python · Kotlin · React · React Native · Next.js  
 Bun · Hono · PostgreSQL · PyTorch · Mastra · RAG · Vector DB
 
 ---
 
-## 🤖 ML / AI
+## <img src="https://api.iconify.design/lucide/bot.svg?color=%236b7280" width="22" height="22" alt=""> ML / AI
 
 TTS · ASR · NLP · Translation · Fine-Tuning  
 AI Agents · RAG · Embeddings · Semantic Search · Voice AI
 
 ---
 
-## 🔗 Connect
+## <img src="https://api.iconify.design/lucide/link.svg?color=%236b7280" width="22" height="22" alt=""> Connect
 
 🌐 **Portfolio:** [keeior.qzz.io](https://keeior.qzz.io)  
 🤗 **Hugging Face:** [Code-Dev](https://huggingface.co/Code-Dev)  
