@@ -56,6 +56,6 @@ AI Agents · RAG · Embeddings · Semantic Search · Voice AI
 
 ## <img src="https://api.iconify.design/lucide/link.svg?color=%236b7280" width="22" height="22" alt=""> Connect
 
-🌐 **Portfolio:** [keeior.qzz.io](https://keeior.qzz.io)  
-🤗 **Hugging Face:** [Code-Dev](https://huggingface.co/Code-Dev)  
-💻 **GitHub:** [Code-Dev-io](https://github.com/Code-Dev-io)
+<img src="https://api.iconify.design/lucide/globe.svg?color=%236b7280" width="18" height="18" alt=""> **Portfolio:** [keeior.qzz.io](https://keeior.qzz.io)  
+<img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%236b7280" width="18" height="18" alt=""> **Hugging Face:** [Code-Dev](https://huggingface.co/Code-Dev)  
+<img src="https://api.iconify.design/lucide/github.svg?color=%236b7280" width="18" height="18" alt=""> **GitHub:** [Code-Dev-io](https://github.com/Code-Dev-io)
