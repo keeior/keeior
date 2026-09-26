@@ -10,7 +10,7 @@
 <a href="https://huggingface.co/Code-Dev">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </a>
-<a href="https://github.com/Code-Dev-io">
+<a href="https://github.com/keeior">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -58,4 +58,4 @@ AI Agents · RAG · Embeddings · Semantic Search · Voice AI
 
 <img src="https://api.iconify.design/lucide/globe.svg?color=%236b7280" width="18" height="18" alt=""> **Portfolio:** [keeior.qzz.io](https://keeior.qzz.io)  
 <img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%236b7280" width="18" height="18" alt=""> **Hugging Face:** [Code-Dev](https://huggingface.co/Code-Dev)  
-<img src="https://api.iconify.design/lucide/github.svg?color=%236b7280" width="18" height="18" alt=""> **GitHub:** [Code-Dev-io](https://github.com/Code-Dev-io)
+<img src="https://api.iconify.design/lucide/github.svg?color=%236b7280" width="18" height="18" alt=""> **GitHub:** [Code-Dev-io](https://github.com/keeior)
